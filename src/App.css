@@ -1,3 +1,8 @@
 .App {
   text-align: center;
 }
+
+.panel:hover{
+  transition: all .7s;
+  transform: scale(1.02);
+}
